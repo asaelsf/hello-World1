@@ -1,8 +1,11 @@
 # hello-World1
 Hello-world 
 
-Grupo EVNXXX 
+Grupo EVN302 
 
-Listar los miembros del equipo 
+Asael Santiago Francisco
+Carlos
+Ignacio
+Juan
 
 ​
